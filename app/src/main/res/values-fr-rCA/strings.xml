@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Hydraulique</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <string name="action_settings">Paramètres</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+Hydraulica affiche les autorisations d\'exécution disponibles dans Android M et au-dessus.
+            Afficher l\'écran de connexion pour suivre l\'exécution.
+            Si elle est exécutée sur un appareil Android M, une option supplémentaire pour accéder aux contacts s'affiche
+            cela est déclaré avec les autorisations facultatives, M et supérieures uniquement.        ]]>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="calculate_instructions">Entrer entrer la pression et le volume du cylindre pour calculer la force du cylindre</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_maps">Carte</string>
+</resources>
